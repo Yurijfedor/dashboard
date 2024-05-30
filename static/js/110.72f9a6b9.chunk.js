@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdashboard=self.webpackChunkdashboard||[]).push([[110],{288:function(a,e,n){n.r(e);var r=n(184);e.default=function(){return(0,r.jsx)("div",{children:"I am a IncomePage"})}}}]);
+//# sourceMappingURL=110.72f9a6b9.chunk.js.map
